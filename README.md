@@ -1,4 +1,3 @@
-
 # Personal Voice Assistant using Python
 
 Speech recognition is the process of converting audio into text. This is commonly used in voice assistants like Alexa, Siri, etc. Python provides an API called Speech Recognition to allow us to convert audio into text for further processing. In this article, we will look at converting large or long audio files into text using the Speech Recognition API in python.
@@ -21,32 +20,25 @@ The aim of this technology is to empower these individuals by giving them more i
 
 ## Screenshots
 - Assistant Greeting according to time
-
-![Assistant Greeting according to time]("https://github.com/laxmipuja/Personal_Voice_Assistant/blob/main/Assistant%20greeting%20user%20according%20to%20time_page-0001.jpg")
+![Assistant greeting user according to time_page-0001](https://user-images.githubusercontent.com/69000301/222985593-68c787c7-c130-4471-8baa-95be1bc036b2.jpg)
 
 - Assistant opens Google and searches for user
-
-![Assistant opens Google and searches for user]("https://github.com/laxmipuja/Personal_Voice_Assistant/blob/main/Assistant%20opens%20Google%20and%20searches%20for%20the%20user's%20requested%20content_page-0001.jpg")
+![Assistant opens Google and searches for the user's requested content_page-0001 (1) - Copy](https://user-images.githubusercontent.com/69000301/222985508-a048203e-d356-49c8-8e0e-f53e64719049.jpg)
 
 - Assistant opens youtube and plays user
-
-![Assistant opens youtube and plays user]("https://github.com/laxmipuja/Personal_Voice_Assistant/blob/mainAssistant%20opens%20YouTube%20and%20plays%20user's%20requested%20content_page-0001.jpg")
+![Assistant opens YouTube and plays user's requested content_page-0001](https://user-images.githubusercontent.com/69000301/222985574-9357d780-ab34-4972-93a5-6d485e3e8952.jpg)
 
 - Assistant opens command prompt
-
-![Assistant opens command prompt]("https://github.com/laxmipuja/Personal_Voice_Assistant/blob/mainAssistant%20opens%20command%20prompt%20on%20user's%20request_page-0001.jpg")
+![Assistant opens command prompt on user's request_page-0001](https://user-images.githubusercontent.com/69000301/222985581-66994ea1-76f4-4038-8f33-770ef6dff38a.jpg)
 
 - Assistant telling time to the user
-
-![ Assistant telling time to the user]("https://github.com/laxmipuja/Personal_Voice_Assistant/blob/mainAssistant%20telling%20the%20time%20on%20user's%20request_page-0001.jpg")
+![Assistant telling the time on user's request_page-0001](https://user-images.githubusercontent.com/69000301/222985588-9085711e-f37b-4fc5-9faf-827e01a20fc7.jpg)
 
 - Assistant opens calculator on users request
-
-![Assistant opens calculator on users request]("https://github.com/laxmipuja/Personal_Voice_Assistant/blob/mainAssitant%20opens%20calculator%20on%20user's%20request_page-0001.jpg")
+![Assitant opens calculator on user's request_page-0001](https://user-images.githubusercontent.com/69000301/222985578-409c5599-9fbd-45a3-9da4-f3eeb7302358.jpg)
 
 - Assistent opens notepad on users request
-
-![Assistent opens notepad on users request]("https://github.com/laxmipuja/Personal_Voice_Assistant/blob/mainAssitant%20opens%20notepad%20on%20user's%20request_page-0001.jpg")
+![Assitant opens notepad on user's request_page-0001](https://user-images.githubusercontent.com/69000301/222985583-1663f3ce-f6b3-4901-a7a5-bffd51229976.jpg)
 
 
 
