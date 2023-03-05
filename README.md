@@ -21,22 +21,16 @@ The aim of this technology is to empower these individuals by giving them more i
 ## Screenshots
 - Assistant Greeting according to time
 ![Assistant greeting user according to time_page-0001](https://user-images.githubusercontent.com/69000301/222985593-68c787c7-c130-4471-8baa-95be1bc036b2.jpg)
-
 - Assistant opens Google and searches for user
 ![Assistant opens Google and searches for the user's requested content_page-0001 (1) - Copy](https://user-images.githubusercontent.com/69000301/222985508-a048203e-d356-49c8-8e0e-f53e64719049.jpg)
-
 - Assistant opens youtube and plays user
 ![Assistant opens YouTube and plays user's requested content_page-0001](https://user-images.githubusercontent.com/69000301/222985574-9357d780-ab34-4972-93a5-6d485e3e8952.jpg)
-
 - Assistant opens command prompt
 ![Assistant opens command prompt on user's request_page-0001](https://user-images.githubusercontent.com/69000301/222985581-66994ea1-76f4-4038-8f33-770ef6dff38a.jpg)
-
 - Assistant telling time to the user
 ![Assistant telling the time on user's request_page-0001](https://user-images.githubusercontent.com/69000301/222985588-9085711e-f37b-4fc5-9faf-827e01a20fc7.jpg)
-
 - Assistant opens calculator on users request
 ![Assitant opens calculator on user's request_page-0001](https://user-images.githubusercontent.com/69000301/222985578-409c5599-9fbd-45a3-9da4-f3eeb7302358.jpg)
-
 - Assistent opens notepad on users request
 ![Assitant opens notepad on user's request_page-0001](https://user-images.githubusercontent.com/69000301/222985583-1663f3ce-f6b3-4901-a7a5-bffd51229976.jpg)
 
