@@ -1,0 +1,8 @@
+Import libraries
+
+1. Set PythonPath in environment variables
+	PY_HOME= %PY_HOME%;%PY_HOME%\Lib;%PY_HOME%\DLLs;%PY_HOME%\Lib\lib-tk
+2. pip install pipwin
+3. pipwin install pyttsx3
+4. pipwin install pyaudio
+5. pip install SpeechRecognition
